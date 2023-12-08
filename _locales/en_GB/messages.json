@@ -1,0 +1,11 @@
+{
+    "addonName": {
+      "message": "My Firefox UserAgents"
+    },
+    "addonDescription": {
+      "message": "Enables Bing Chat in Firefox etc"
+    },
+    "addonAuthorsList": {
+      "message": "Malcolm Ke Win <kexianbin@gmail.com>"
+    }
+  }
